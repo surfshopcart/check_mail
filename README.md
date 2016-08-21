@@ -10,3 +10,5 @@ This script produces a log file with everything lined up nice and neat.  It also
 To use this script, simply save it as an Application with Script Editor and select "Stay open after run handler".  Leave "Show startup screen" unchecked.  You can name it anything you like.  Both the data and log files will be saved inside the application bundle so you don't have to keep track of where everything is located.  To view them, simply click on the app's icon in the Finder, select "Show Package Contents", then navigate to Contents > Resources > Scripts.
 
 This was done as a personal project, but I felt others might get some use out of it as well.  Any ideas on how to make this better would be greatly appreciated.
+
+You can [contact us here](http://www.surfshopcart.com/
