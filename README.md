@@ -11,4 +11,4 @@ To use this script, simply save it as an Application with Script Editor and sele
 
 This was done as a personal project, but I felt others might get some use out of it as well.  Any ideas on how to make this better would be greatly appreciated.
 
-You can [contact us here](http://www.surfshopcart.com/
+You can [contact us here](http://www.surfshopcart.com/)
