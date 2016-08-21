@@ -1,5 +1,5 @@
 # check_mail
-AppleScript to individually check email accounts in Mail.app
+###AppleScript to individually check email accounts in Mail.app
 
 This is a self-contained script.  All you have to do is rename your Mail accounts by appending a "/XX" (without the quotes) to every account name (The "XX" in this example is the number, in minutes, that you want to check an account).  If you do not want a particular account checked by this script, simply append "/0" to it's name, or append nothing at all.  If the script doesn't find a slash in the name, it will skip it.  You can still check the account manually from within Mail.
 
